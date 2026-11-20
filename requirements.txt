@@ -1,3 +1,5 @@
 streamlit>=1.37
 openai
 python-dotenv
+edge-tts
+requests
